@@ -6,12 +6,12 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "Akhilesh, Yarabarla, blog, tech, software, coding, life"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -35,7 +35,7 @@ menu:
   #categories: /categories
   #about: /about
   archives: /archives
-  tags: /tags
+  #tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -140,7 +140,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  GitHub: github.com/yarabarla
   Twitter: twitter
   Weibo: weibo
 
@@ -263,7 +263,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: yarabarla-com
 
 # Hypercomments
 #hypercomments_id:
